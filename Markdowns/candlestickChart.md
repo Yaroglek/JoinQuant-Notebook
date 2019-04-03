@@ -3,7 +3,7 @@
 
 如图是`上证指数 000001`的日K线图.
 
-![上证指数 000001](./images/candlestickChartSample.png)
+![上证指数 000001](./../images/candlestickChartSample.png)
 
 K线图每根线展示了当日的开盘价, 收盘价, 最高价, 最低价.
 
